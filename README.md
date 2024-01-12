@@ -8,17 +8,14 @@ This course is lectured by 吳俊峯 at NYCU
 
 ## Lecture
 
-### L0: Course Overview
-
-### L1: Operating System A Recap
-
-### L2: Processes & Interrupts
-
-### L3: Memory Management
-
-### L4: Devices & Block Layers
-
-### L5: File System & Virtual File System
+| Lecture |               Description               |
+| :-----: | :-------------------------------------: |
+|   L0    |          **_Course Overview_**          |
+|   L1    |     **_Operating System A Recap_**      |
+|   L2    |      **_Processes & Interrupts_**       |
+|   L3    |         **_Memory Management_**         |
+|   L4    |      **_Devices & Block Layers_**       |
+|   L5    | **_File System & Virtual File System_** |
 
 <BR>
 
