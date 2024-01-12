@@ -34,17 +34,17 @@ This course is lectured by 吳俊峯 at NYCU
     <tbody>
     <tr>
         <td> Programming Assignment I</td>
-        <td align="center"><b><i>Compiling Linux Kernel and Adding Custom System Calls</td>
+        <td align="center"><b><i><a href='https://hackmd.io/@Bmch4MS0Rz-VZWB74huCvw/B1b2S_Kl6'>Compiling Linux Kernel and Adding Custom System Calls</td>
         <td><a href='./HW1/'><span>&#128279;</span> Link</td>
     </tr>
     <tr>
         <td>Programming Assignment II</td>
-        <td align="center"><b><i>Scheduling Policy Demonstration Program</td>
+        <td align="center"><b><i><a href='https://hackmd.io/@Bmch4MS0Rz-VZWB74huCvw/rJ8OLx6fp'>Scheduling Policy Demonstration Program</td>
         <td><a href='./HW2/'><span>&#128279;</span> Link</td>
     </tr>
     <tr>
         <td>Programming Assignment III</td>
-        <td align="center"><b><i>System Information Fetching Kernel Module</td>
+        <td align="center"><b><i><a href='https://hackmd.io/@a3020008/r1Txj5ES6'>System Information Fetching Kernel Module</td>
         <td><a href='./HW3/'><span>&#128279;</span> Link</td>
     </tr>
 </table>
