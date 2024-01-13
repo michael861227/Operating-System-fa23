@@ -47,3 +47,11 @@ See more [Operating System](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy
         <td><a href='./HW3/'><span>&#128279;</span> Link</td>
     </tr>
 </table>
+
+<BR>
+
+## Usage
+
+```shell
+$ git clone git@github.com:michael861227/Operating-System-fa23.git
+```
