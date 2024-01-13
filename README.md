@@ -1,8 +1,10 @@
 # Operating System Spring 2023 @ NYCU
 
-This course is lectured by 吳俊峯 at NYCU
+## About This Repository
 
-**Course Information** : [Operating System](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=112&Sem=1&CrsNo=535505&lang=zh-tw)
+This repository is dedicated to the programming assignment for the Operating System course in Fall 2023 at NYCU, lectured by Professor 吳俊峯
+
+See more [Operating System](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=112&Sem=1&CrsNo=535505&lang=zh-tw) course information
 
 <BR>
 
