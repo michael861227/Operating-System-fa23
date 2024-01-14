@@ -20,7 +20,7 @@ $ make load
 $ lsmod | grep "kfetch"
 ```
 
-![Alt text](./Reference%20Image/image.png)
+![Alt text](./Reference%20Image/check.png)
 
 ### 3. Test the Program
 
