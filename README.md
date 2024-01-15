@@ -21,6 +21,14 @@ See more [Operating System](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy
 
 <BR>
 
+## Prerequisite
+
+- [Ubuntu 22.04 AMD64](https://releases.ubuntu.com/22.04/)
+
+- [Kernel version 5.19.12](https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.19.12.tar.xz)
+
+<BR>
+
 ## Programming Assignment
 
 <table>
@@ -53,5 +61,5 @@ See more [Operating System](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy
 ## Usage
 
 ```shell
-$ git clone git@github.com:michael861227/Operating-System-fa23.git
+git clone git@github.com:michael861227/Operating-System-fa23.git
 ```

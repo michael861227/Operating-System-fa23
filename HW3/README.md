@@ -5,19 +5,19 @@
 ### 0. Compile the kernel module
 
 ```shell
-$ make
+make
 ```
 
 ### 1. Load the kernel module into the system
 
 ```shell
-$ make load
+make load
 ```
 
 ### 2. Check the module has been loaded into the system
 
 ```shell
-$ lsmod | grep "kfetch"
+lsmod | grep "kfetch"
 ```
 
 ![Alt text](./Reference%20Image/check.png)
@@ -25,8 +25,8 @@ $ lsmod | grep "kfetch"
 ### 3. Test the Program
 
 ```shell
-$ cc kfetch.c -o kfetch
-$ sudo ./kfetch
+cc kfetch.c -o kfetch
+sudo ./kfetch
 ```
 
 ![Alt text](./Reference%20Image/Info.png)
@@ -49,5 +49,5 @@ Options:
 ### 5. Unload the kernel module
 
 ```shell
-$ make unload
+make unload
 ```
